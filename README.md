@@ -15,7 +15,7 @@ Tenho 39 anos, sou do Rio de Janeiro mas moro perto de Nova Iguaçu e estou gost
  <p align="left">💻 Estou estudando pela IBMR, Análise e Desenvolvimento de Sistemas e faço cursos para Analista de QA;</p>
  <p align="left">💻 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia pelo repositório <a href="https://github.com/FelipeBarillo/Projeto_QA.git">PROJETO QA</a> onde irei mostrar a evolução do aprendizado;</p>
  <p align="left">📚 Estudando com Javascript;</p>
- <p align="left">Também tenho minha pagina construindo a reforma da casa que não é facil rs! Obra nunca acaba! Segue lá! <a href="https://www.instagram.com/homebarillos80/">Instagram;</p>
+ <p align="left">Também tenho minha pagina <b>Reforma da casa</b> que não é facil rs! Obra nunca acaba! Segue lá! <a href="https://www.instagram.com/homebarillos80/">Instagram;</p>
 </div>
  
 </br>
