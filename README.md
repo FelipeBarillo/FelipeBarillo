@@ -13,9 +13,12 @@ Tenho 39 anos, sou do Rio de Janeiro mas moro perto de Nova Iguaçu e estou gost
 </br>
 </br>
 <div display="inline-block">
- <p align="left">💻 Estou estudando pela IBMR, Análise e Desenvolvimento de Sistemas e faço cursos para a Analista de QA;</p>
+ <p align="left">💻 Estou estudando pela IBMR, Análise e Desenvolvimento de Sistemas e faço cursos para Analista de QA;</p>
  <p align="left">📚 Estudado com Javascript;</p>
- <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <!--<a href="https://www.instagram.com/jeniblo_dev"> --> Instagram</a> e no <!--<a href="https://dev.to/jeniblo_dev"> --> Blog</a>. Segue lá e vamos aprender!</p>
+ <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <!--<a href="https://www.instagram.com/jeniblo_dev"> --> Instagram;</p>
+ Segue lá e vamos aprender!</p>
+ 
+</div>
  
 </br>
 
