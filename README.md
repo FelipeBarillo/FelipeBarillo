@@ -1,6 +1,6 @@
 ## E ai, Pessoal!!
 
-Tenho 39 anos, sou do Rio de Janeiro mas moro perto de Nova Iguaçu e estou gostando do mundo dos codigos! E quanto mais eu aprendo e passo raiva, mais curto tudo isso!
+Tenho 39 anos, sou do Rio de Janeiro mas moro perto de Nova Iguaçu e estou gostando do mundo dos códigos! E quanto mais eu aprendo e passo raiva, mais curto tudo isso!
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -11,13 +11,11 @@ Tenho 39 anos, sou do Rio de Janeiro mas moro perto de Nova Iguaçu e estou gost
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
 </br>
-</br>
 <div display="inline-block">
  <p align="left">💻 Estou estudando pela IBMR, Análise e Desenvolvimento de Sistemas e faço cursos para Analista de QA;</p>
+ <p align="left">💻 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia pelo repositório <a href="https://github.com/FelipeBarillo/Projeto_QA.git">PROJETO QA</a> onde irei mostrar a evolução do aprendizado;</p>
  <p align="left">📚 Estudado com Javascript;</p>
- <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <!--<a href="https://www.instagram.com/jeniblo_dev"> --> Instagram;</p>
- Segue lá e vamos aprender!</p>
- 
+ <p align="left">Também tenho minha pagina construindo a reforma da casa que não é facil rs! Obra nunca acaba! Segue lá! <a href="https://www.instagram.com/homebarillos80/">Instagram;</p>
 </div>
  
 </br>
