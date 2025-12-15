@@ -1,7 +1,7 @@
 # 👨‍💻 Felipe Barillo
 **`QA ENGINEER`**
 
-Tenho 39 anos, sou morador de Nova Iguaçu/RJ
+Tenho 39 anos, sou morador de Nova Iguaçu/RJ. <br>
 Sou QA ENGINEER em desenvolvimento e estou construindo minha versão do mundo digital passo a passo. Todos os meus projetos são desenvolvidos do zero, desde o planejamento até a resolução de problemas reais com código.
 
 
