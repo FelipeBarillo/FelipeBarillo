@@ -2,7 +2,7 @@
 **`QA ENGINEER`**
 
 Tenho 39 anos, sou morador de Nova Iguaçu/RJ
-Sou um desenvolvedor QA ENGINEER em desenvolvimento e estou construindo minha versão do mundo digital passo a passo. Todos os meus projetos são desenvolvidos do zero, desde o planejamento até a resolução de problemas reais com código.
+Sou QA ENGINEER em desenvolvimento e estou construindo minha versão do mundo digital passo a passo. Todos os meus projetos são desenvolvidos do zero, desde o planejamento até a resolução de problemas reais com código.
 
 
    <p align="left">
