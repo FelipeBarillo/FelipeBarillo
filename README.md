@@ -26,7 +26,7 @@ Sou QA ENGINEER em desenvolvimento e estou construindo minha versão do mundo di
 </br>
 
 <div display="inline-block">
- <p align="left">💻 Estudante pela IBMR, Análise e Desenvolvimento de Sistemas e faço cursos para QA ENGINEER;</p>
+ <p align="left">💻 Estudante pela IBMR, Análise e Desenvolvimento de Sistemas e faço cursos para QA ENGINEER pela Instituição LUMESTACK </p>
  <p align="left">💻 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia pelo repositório <a href="https://github.com/FelipeBarillo/Projeto_QA.git">PROJETO QA</a> onde irei mostrar a evolução do aprendizado;</p>
  <p align="left">📚 Estudando com Javascript e Cypress</p>
  </div>
